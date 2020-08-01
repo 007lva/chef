@@ -18,8 +18,8 @@ GIT
 
 GIT
   remote: https://github.com/chef/omnibus-software
-  revision: 399369c70d19eaf3ee035da1e4a14bd79b21381d
-  branch: master
+  revision: cf100d0691ea078ef772f4c9458cd7fb90296876
+  branch: no_bzip2_bins
   specs:
     omnibus-software (4.0.0)
       omnibus (>= 5.6.1)
